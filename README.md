@@ -1,7 +1,7 @@
 # syms
 One can see symlinks and what they refer to simply by running `ls -l` in a given directory and this is generally sufficient for day to day use. If you work with symlinks a lot, on the other hand, then sometimes you may want to list symlinks, and only symlinks, in the given directory.
 
-`syms` is a simple and shorthand function that let's you do exactly this. The main benefit of this is that you don't have to scroll if the directory has many files.
+`syms` is a simple and shorthand function that lets you do exactly this. The main benefit of this is that you don't have to scroll if the directory has many files.
 
 ## Example output
 ```bash
